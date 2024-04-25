@@ -1,0 +1,7 @@
+{
+	"name": "selfHostedForMyPc",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "this is self hosted to connect with my PC "
+	}
+}
